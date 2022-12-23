@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Rejex Tutorial
 
-Introductory paragraph (replace this with your text)
+This project.....
 
 ## Summary
 
