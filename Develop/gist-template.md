@@ -1,6 +1,8 @@
 # Rejex Tutorial
 
-This project.....
+## Project Description
+
+This project ..
 
 ## Summary
 
@@ -23,6 +25,8 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
+
+* Anchors ....
 
 ### Quantifiers
 
