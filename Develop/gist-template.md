@@ -6,8 +6,6 @@ I will be analyzing an email matching rejex.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
-
 In this project, I will be describing the rejex for matching an email. The project will analyze each individual piece of the rejext and describe what the funciton/purpose of it is. The email rejex code that will be analyzed is listed below.
 
 ## Matching an Email
